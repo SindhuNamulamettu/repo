@@ -1,1 +1,16 @@
 hello good evening
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/SindhuNamulamettu/practiseRepo.git
+git push -u origin master
+
+git pull origin branch01 --allow-unrelated-histories
+next push again
+
+git branch
+git chekout master/branch01
+git log
+git fetch
+
